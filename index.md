@@ -4,3 +4,5 @@ title: Junyoung Yang  # _config.yml과 동일하게 설정
 ---
 
 ### Introduction
+
+I am a Master's degree-holding researcher from South Korea. I am interested in 
