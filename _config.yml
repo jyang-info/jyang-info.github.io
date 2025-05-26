@@ -3,6 +3,6 @@ plugins:
   - jekyll-remote-theme
 
 title: Junyoung Yang  # 사이트 제목 (필수)
-description: Scientific Portfolio personal website  # 간단한 설명 (필수)
+description: Scientific ortfolio personal website  # 간단한 설명 (필수)
 show_downloads: false  # 다운로드 버튼 표시 여부 (선택)
 google_analytics:
