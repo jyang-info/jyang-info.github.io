@@ -5,7 +5,14 @@ title: Junyoung Yang  # _config.yml과 동일하게 설정
 
 ### Introduction
 
-I am interested in the possibility of extraterrestrial life in our solar system and how we might detect it. I earned my Master's degree in Polar Science at University of Science and Technology, Korea and B.E in Bioengineering and B.S in Molecular Biotechnology at Yonsei University and Jeju National University.
+I am deeply interested in the potential for extraterrestrial life and how we can detect it. My research interests include interdisciplinary approaches that integrate remote sensing (via rovers, drones, and satellites), spectroscopy, AI algorithms, data science, and geochemical and biochemical analysis. 
+
+I earned my Master's degree in Polar Science (with a focus on Remote Sensing and Polar Biology) from the University of Science and Technology (UST), Korea, and hold a B.E. in Bioengineering and a B.S. in Molecular Biotechnology from Yonsei University and Jeju National University, respectively. Although my academic background spans diverse fields, I am still highly motivated to explore new methodologies, learn new disciplines and contribute to research areas beyond my previous experience. I view unfamiliar techniques not as obstacles, but as opportunities for growth and collaboration.
+
+Below is my research experience and mat
+
+
+I earned my Master's degree in Polar Science at University of Science and Technology, Korea and B.E in Bioengineering and B.S in Molecular Biotechnology at Yonsei University and Jeju National University. 나는 나의 diverse background에도 불구하고 새로운 분야를 배우는 것에 열정적입니다.
 
 Below are my research experience 
 
@@ -20,7 +27,7 @@ Yang, J., Lee, Y. K., Chi, J., (2023). Spectral Unmixing-Based Arctic Plant Spec
 
 Yang, J., Lee, Y. K., Chi, J., (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. Committee on Space Research (COSPAR). Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
 
-Yang, J., Lee, Y. K., Chi, J., (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. [Poster PDF]
+Yang, J., Lee, Y. K., Chi, J., (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
 
 
