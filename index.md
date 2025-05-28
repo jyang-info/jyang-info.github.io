@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3da75eaf-9a4a-432c-99d1-e3f2ea76dd6d)---
+---
 layout: default #YAML 헤더(---) 추가 해줘야 → Jekyll이 메타데이터를 인식합니다.
 title: Junyoung Yang  # _config.yml과 동일하게 설정
 ---
