@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/3da75eaf-9a4a-432c-99d1-e3f2ea76dd6d)---
 layout: default #YAML 헤더(---) 추가 해줘야 → Jekyll이 메타데이터를 인식합니다.
 title: Junyoung Yang  # _config.yml과 동일하게 설정
 ---
@@ -18,19 +18,29 @@ May 2020 - June 2024
 
 I worked
 
-1. **Yang, J.**, Lee, Y. K., Chi, J., (2023). Spectral Unmixing-Based Arctic Plant Species Analysis using a Spectral Library and Terrestrial Hyperspectral Imagery: A case study in Adventdalen, Svalbard. *International Journal of Applied Earth Observation and Geoinformation*. <a href="https://doi.org/10.1016/j.jag.2023.103583" target="_blank">[https://doi.org/10.1016/j.jag.2023.103583]</a>
+1. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Spectral Unmixing-Based Arctic Plant Species Analysis using a Spectral Library and Terrestrial Hyperspectral Imagery: A case study in Adventdalen, Svalbard. *International Journal of Applied Earth Observation and Geoinformation*. <a href="https://doi.org/10.1016/j.jag.2023.103583" target="_blank">[https://doi.org/10.1016/j.jag.2023.103583]</a>
 *description: 
 
-2. Yang, J., Lee, Y. K., Chi, J., (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. Committee on Space Research (COSPAR). Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
+2. Yang, J., Lee, Y. K., Chi, J. (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. Committee on Space Research (COSPAR). Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
 
-3. Yang, J., Lee, Y. K., Chi, J., (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
+3. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
+
+**Undergraduate Researcher**  
+Yonsei University  
+September 2018 - August 2019
+
+1. Yang, J., Kim, C. Y. Lee, I. (2019). De novo assembly of the Korean-specific gut microbiome genome. Network Biology Laboratory Presentation
+
+2. Yang, J., Kim, C. Y. Lee, I. (2019). Gut microbiome analysis in inflammatory bowel disease. Network Biology Laboratory Presentation
+
+3. Yang, J., Hwang, H. Y., Kwon, H. J. (2018). Evaluation of anti-cancer activity of natural compounds and biological relationship between Autophagy and Ciliogenesis, Yonsei Biotechnology and Bioengineering Department Undergraduate Research Conference. Seoul, South Korea.
 
 
 ### Contact
 
-Email: jyyang(at)yonsei.ac.kr
-Phone/Watsapp: +82-10-2967-1219
+Email: jyyang(at)yonsei.ac.kr  
+Phone/WhatsApp: +82-10-2967-1219
 
 
 
