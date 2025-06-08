@@ -57,7 +57,7 @@ Conference Presentation
 Yonsei University  
 September 2018 - August 2019  
 
-Role: I served as an undergraduate researcher at the Bioinformatics Lab (<a href="https://netbiolab.org/" target="_blank">https://netbiolab.org/</a>) and the Chemical Genomics Lab (<a href="http://kwoncglab.com/" target="_blank">http://kwoncglab.com/</a>). My specialties included developing novel approaches for analyzing the correlation between the gut microbiome and disease, and evaluating new natural compounds for cancer treatment under the supervision of Prof. Insuk Lee and Prof. Ho Jeong Kwon, respectively.
+Role: I served as an undergraduate researcher at the Bioinformatics Lab (<a href="https://netbiolab.org/" target="_blank">https://netbiolab.org/</a>) and the Chemical Genomics Lab (<a href="http://kwoncglab.com/" target="_blank">http://kwoncglab.com/</a>). My specialties included developing novel approaches to analyze the correlation between the gut microbiome and disease, and evaluating new natural compounds for cancer treatment under the supervision of Prof. Insuk Lee and Prof. Ho Jeong Kwon, respectively.
 
 1. Yang, J., Kim, C. Y. Lee, I. (2019). De novo assembly of the Korean-specific gut microbiome genome. Network Biology Laboratory Presentation
 
