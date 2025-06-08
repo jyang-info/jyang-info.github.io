@@ -19,7 +19,7 @@ Below is an overview of my research experience and a full list of my academic ma
 Korea Polar Research Institute  
 May 2020 - June 2024
 
-Role: I served as a research assistant at the Korea Polar Research Institute (KOPRI, <a href="https://eng.kopri.re.kr/" target="_blank">[https://eng.kopri.re.kr/]</a>)
+Role: I served as a research assistant at the Korea Polar Research Institute (KOPRI, <a href="https://eng.kopri.re.kr/" target="_blank">https://eng.kopri.re.kr</a>)
 
 Publication
 1. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Spectral Unmixing-Based Arctic Plant Species Analysis using a Spectral Library and Terrestrial Hyperspectral Imagery: A case study in Adventdalen, Svalbard. *International Journal of Applied Earth Observation and Geoinformation*. <a href="https://doi.org/10.1016/j.jag.2023.103583" target="_blank">[https://doi.org/10.1016/j.jag.2023.103583]</a>
