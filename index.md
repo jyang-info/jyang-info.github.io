@@ -57,7 +57,7 @@ Conference Presentation
 Yonsei University  
 September 2018 - August 2019  
 
-Role: I served as an undergraduate researcher at the Chemical Genomics Lab and the Bioinformatics Lab. My research focused on understanding and monitoring the changes in the Arctic and Antarctic ecosystems caused by global warming. My responsibilities include data collection, analysis, statistical evaluation, and interpretation under the supervision of Dr. Yoo Kyung Lee and Dr. Junhwa Chi.
+Role: I served as an undergraduate researcher at the Chemical Genomics Lab (<a href="http://kwoncglab.com/" target="_blank">http://kwoncglab.com/</a>) and the Bioinformatics Lab (<a href="https://netbiolab.org/" target="_blank">https://netbiolab.org/</a>). My research focused on understanding and monitoring the changes in the Arctic and Antarctic ecosystems caused by global warming. My responsibilities include data collection, analysis, statistical evaluation, and interpretation under the supervision of Dr. Yoo Kyung Lee and Dr. Junhwa Chi.
 
 1. Yang, J., Kim, C. Y. Lee, I. (2019). De novo assembly of the Korean-specific gut microbiome genome. Network Biology Laboratory Presentation
 
