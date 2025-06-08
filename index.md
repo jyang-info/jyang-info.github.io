@@ -10,7 +10,7 @@ I am deeply interested in the potential for extraterrestrial life in our solar s
 I earned my Master's degree in Polar Science (with a focus on Remote Sensing and Polar Biology) from the University of Science and Technology (UST), Korea, and hold a B.E. in Bioengineering and a B.S. in Molecular Biotechnology from Yonsei University and Jeju National University, respectively. Although my academic background spans diverse fields, I am still highly motivated to explore new methodologies, learn new disciplines, and contribute to research areas beyond my previous experience. I view unfamiliar techniques not as obstacles, but as opportunities for growth and collaboration.
 
 ### Experience
-Below is an overview of my research experience and a full list of my academic materials, including a journal publication and conference presentations. Please note that some PDF files have been excluded as they are in Korean, but they are available upon request. 
+Below is an overview of my research experience and a full list of my academic materials, including a journal publication and conference presentations. Please note that some PDF files, which contain public data issues and are in Korean, have been excluded, but they are available upon request. 
 
 **Research Technician & Graduate Research Assistant**  
 Korea Polar Research Institute  
@@ -18,32 +18,36 @@ May 2020 - June 2024
 
 I worked
 
+Publication
+
 1. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Spectral Unmixing-Based Arctic Plant Species Analysis using a Spectral Library and Terrestrial Hyperspectral Imagery: A case study in Adventdalen, Svalbard. *International Journal of Applied Earth Observation and Geoinformation*. <a href="https://doi.org/10.1016/j.jag.2023.103583" target="_blank">[https://doi.org/10.1016/j.jag.2023.103583]</a>
-*description: 
+*description:
 
-2. Yang, J., Lee, Y. K., Chi, J. (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. Committee on Space Research (COSPAR). Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
+Conference Presentation
 
-3. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
+1. Yang, J., Lee, Y. K., Chi, J. (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. Committee on Space Research (COSPAR). Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
 
-4. Yang, J., Lee, Y. K., Chi, J. (2023). Mapping Arctic Vegetation Abundance using Spectral Unmixing Analysis with WorldView-3 and UAV Images. Korean Society of Remote Sensing Fall Meeting. Gyeongju, South Korea. Oral
+2. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
-5. Yang, J., Lee, Y. K., Chi, J. (2023). Machine learning-based classification for mapping Arctic plant species using terrestrial hyperspectral imagery. The Annual Meeting of the Korean Association of Biological Sciences. Chuncheon, South Korea. <a href="/files/2023KAOBS_Poster_20230810.pdf" target="_blank">[Poster PDF]</a>
+3. Yang, J., Lee, Y. K., Chi, J. (2023). Mapping Arctic Vegetation Abundance using Spectral Unmixing Analysis with WorldView-3 and UAV Images. Korean Society of Remote Sensing Fall Meeting. Gyeongju, South Korea. Oral
 
-6. Yang, J., Lee, Y. K., Chi, J. (2023). Mapping Capability of Hyperspectral Information on Dominant Arctic Vegetation Species using Terrestrial Hyperspectral Imagery. IGARSS- IEEE International Geoscience and Remote Sensing Symposium. Pasadena, CA. <a href="/files/2023IGARSS_Poster_(23.07.21).pdf" target="_blank">[Poster PDF]</a> Conference paper: <a href="https://doi.org/10.1109/IGARSS52108.2023.10282453" target="_blank">[https://doi.org/10.1109/IGARSS52108.2023.10282453]</a>
+4. Yang, J., Lee, Y. K., Chi, J. (2023). Machine learning-based classification for mapping Arctic plant species using terrestrial hyperspectral imagery. The Annual Meeting of the Korean Association of Biological Sciences. Chuncheon, South Korea. <a href="/files/2023KAOBS_Poster_20230810.pdf" target="_blank">[Poster PDF]</a>
+
+5. Yang, J., Lee, Y. K., Chi, J. (2023). Mapping Capability of Hyperspectral Information on Dominant Arctic Vegetation Species using Terrestrial Hyperspectral Imagery. IGARSS- IEEE International Geoscience and Remote Sensing Symposium. Pasadena, CA. <a href="/files/2023IGARSS_Poster_(23.07.21).pdf" target="_blank">[Poster PDF]</a> Conference paper: <a href="https://doi.org/10.1109/IGARSS52108.2023.10282453" target="_blank">[https://doi.org/10.1109/IGARSS52108.2023.10282453]</a>
+
+6. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
 7. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
-7. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
+8. Yang, J., Lee, Y. K., Chi, J. (2023). ‘Analysis of Arctic Plant Species based on Spectral Unmixing using Ground-based spectral library’, GeoAIdata Fall meeting, Jeju, South Korea. Oral
 
-7. Yang, J., Lee, Y. K., Chi, J. (2023). ‘Analysis of Arctic Plant Species based on Spectral Unmixing using Ground-based spectral library’, GeoAIdata Fall meeting, Jeju, South Korea. Oral
+9. Yang, J., Lee, Y. K., Chi, J. (2022). Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, Korean Society of Remote Sensing Fall Meeting, Pusan, South Korea. Oral
 
-7. Yang, J., Lee, Y. K., Chi, J. (2022). Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, Korean Society of Remote Sensing Fall Meeting, Pusan, South Korea. Oral
+10. Chi, J., Yang, J., Lee, Y. K., 2022, A Study on the Classification of Arctic Tundra Vegetation Using UAV Hyperspectral imagery, Korean Society of Remote Sensing Fall Meeting, Pusan, South Korea. Poster
 
-8. Chi, J., Yang, J., Lee, Y. K., 2022, A Study on the Classification of Arctic Tundra Vegetation Using UAV Hyperspectral imagery, Korean Society of Remote Sensing Fall Meeting, Pusan, South Korea. Poster
+11. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Analysis and Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, The 27th International Symposium on Polar Science, South Korea. <a href="/files/2022ISPS_Poster.pdf" target="_blank">[Poster PDF]</a>
 
-8. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Analysis and Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, The 27th International Symposium on Polar Science, South Korea. <a href="/files/2022ISPS_Poster.pdf" target="_blank">[Poster PDF]</a>
-
-9. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Characteristics of the Arctic Vegetation in Adventdalen, Svalbard, Arctic Science Summer Week 2022, Tromso, Norway. <a href="/files/2022ASSW_Poster.pdf" target="_blank">[Poster PDF]</a>
+12. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Characteristics of the Arctic Vegetation in Adventdalen, Svalbard, Arctic Science Summer Week 2022, Tromso, Norway. <a href="/files/2022ASSW_Poster.pdf" target="_blank">[Poster PDF]</a>
 
 **Undergraduate Researcher**  
 Yonsei University  
