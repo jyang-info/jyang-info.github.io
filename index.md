@@ -19,7 +19,7 @@ Below is an overview of my research experience and a full list of my academic ma
 Korea Polar Research Institute  
 May 2020 - June 2024
 
-Role: I served as a research assistant at the Korea Polar Research Institute (KOPRI, <a href="https://eng.kopri.re.kr/" target="_blank">https://eng.kopri.re.kr</a>)
+Role: I worked at the Korea Polar Research Institute (KOPRI, <a href="https://eng.kopri.re.kr/" target="_blank">https://eng.kopri.re.kr</a>). My research focused on understanding and monitoring the changes in the Arctic and Antarctic ecosystems caused by global warming. My responsibilities include data collection, analysis, statistical evaluation, and interpretation under the supervision of Dr. Yoo Kyung Lee and Dr. Junhwa Chi.
 
 Publication
 1. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Spectral Unmixing-Based Arctic Plant Species Analysis using a Spectral Library and Terrestrial Hyperspectral Imagery: A case study in Adventdalen, Svalbard. *International Journal of Applied Earth Observation and Geoinformation*. <a href="https://doi.org/10.1016/j.jag.2023.103583" target="_blank">[https://doi.org/10.1016/j.jag.2023.103583]</a>
@@ -50,9 +50,14 @@ Conference Presentation
 
 12. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Characteristics of the Arctic Vegetation in Adventdalen, Svalbard, Arctic Science Summer Week 2022, Tromso, Norway. <a href="/files/2022ASSW_Poster.pdf" target="_blank">[Poster PDF]</a>
 
+
+<img src="/files/yonsei_ui_edit.jpg" alt="Yonsei" width="300px">
+
 **Undergraduate Researcher**  
 Yonsei University  
-September 2018 - August 2019
+September 2018 - August 2019  
+
+Role: I served as an undergraduate researcher at the Chemical Genomics Lab and the Bioinformatics Lab. My research focused on understanding and monitoring the changes in the Arctic and Antarctic ecosystems caused by global warming. My responsibilities include data collection, analysis, statistical evaluation, and interpretation under the supervision of Dr. Yoo Kyung Lee and Dr. Junhwa Chi.
 
 1. Yang, J., Kim, C. Y. Lee, I. (2019). De novo assembly of the Korean-specific gut microbiome genome. Network Biology Laboratory Presentation
 
