@@ -26,29 +26,25 @@ Publication
 *description:
 
 Conference Presentation
-1. Yang, J., Lee, Y. K., Chi, J. (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. Committee on Space Research (COSPAR). Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
+1. **Yang, J.**., Lee, Y. K., Chi, J. (2024). Spectral Unmixing-Based Mapping of Arctic Plant Species Using an Unmanned Aerial Vehicle Spectral Library and a Worldview-3 Satellite Image. *Committee on Space Research (COSPAR)*. Busan, South Korea. <a href="/files/2024COSPAR_Presentation_20240718.pdf" target="_blank">[Oral PDF]</a>
 
-2. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
+2. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. *AGU Annual Meeting 2023*. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
-3. Yang, J., Lee, Y. K., Chi, J. (2023). Mapping Arctic Vegetation Abundance using Spectral Unmixing Analysis with WorldView-3 and UAV Images. Korean Society of Remote Sensing Fall Meeting. Gyeongju, South Korea. Oral
+3. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Machine learning-based classification for mapping Arctic plant species using terrestrial hyperspectral imagery. *The Annual Meeting of the Korean Association of Biological Sciences*. Chuncheon, South Korea. <a href="/files/2023KAOBS_Poster_20230810.pdf" target="_blank">[Poster PDF]</a>
 
-4. Yang, J., Lee, Y. K., Chi, J. (2023). Machine learning-based classification for mapping Arctic plant species using terrestrial hyperspectral imagery. The Annual Meeting of the Korean Association of Biological Sciences. Chuncheon, South Korea. <a href="/files/2023KAOBS_Poster_20230810.pdf" target="_blank">[Poster PDF]</a>
+4. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Mapping Capability of Hyperspectral Information on Dominant Arctic Vegetation Species using Terrestrial Hyperspectral Imagery. *IGARSS- IEEE International Geoscience and Remote Sensing Symposium*. Pasadena, CA. <a href="/files/2023IGARSS_Poster_(23.07.21).pdf" target="_blank">[Poster PDF]</a> Conference paper: <a href="https://doi.org/10.1109/IGARSS52108.2023.10282453" target="_blank">[https://doi.org/10.1109/IGARSS52108.2023.10282453]</a>
 
-5. Yang, J., Lee, Y. K., Chi, J. (2023). Mapping Capability of Hyperspectral Information on Dominant Arctic Vegetation Species using Terrestrial Hyperspectral Imagery. IGARSS- IEEE International Geoscience and Remote Sensing Symposium. Pasadena, CA. <a href="/files/2023IGARSS_Poster_(23.07.21).pdf" target="_blank">[Poster PDF]</a> Conference paper: <a href="https://doi.org/10.1109/IGARSS52108.2023.10282453" target="_blank">[https://doi.org/10.1109/IGARSS52108.2023.10282453]</a>
+5. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Mapping Arctic Vegetation Abundance using Spectral Unmixing Analysis with WorldView-3 and UAV Images. *Korean Society of Remote Sensing Fall Meeting*. Gyeongju, South Korea. Oral
+ 
+6. **Yang, J.**, Lee, Y. K., Chi, J. (2023). ‘Analysis of Arctic Plant Species based on Spectral Unmixing using Ground-based spectral library’, *GeoAIdata Fall meeting*, Jeju, South Korea. Oral
 
-6. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
+7. **Yang, J.**, Lee, Y. K., Chi, J. (2022). Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, *Korean Society of Remote Sensing Fall Meeting*, Pusan, South Korea. Oral
 
-7. Yang, J., Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. AGU Annual Meeting 2023. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
+8. Chi, J., **Yang, J.**, Lee, Y. K. (2022). A Study on the Classification of Arctic Tundra Vegetation Using UAV Hyperspectral imagery, *Korean Society of Remote Sensing Fall Meeting*, Pusan, South Korea. Poster
 
-8. Yang, J., Lee, Y. K., Chi, J. (2023). ‘Analysis of Arctic Plant Species based on Spectral Unmixing using Ground-based spectral library’, GeoAIdata Fall meeting, Jeju, South Korea. Oral
+9. **Yang, J.**, Lee, Y. K., Chi, J. (2022). Spectral Analysis and Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, *The 27th International Symposium on Polar Science*, South Korea. <a href="/files/2022ISPS_Poster.pdf" target="_blank">[Poster PDF]</a>
 
-9. Yang, J., Lee, Y. K., Chi, J. (2022). Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, Korean Society of Remote Sensing Fall Meeting, Pusan, South Korea. Oral
-
-10. Chi, J., Yang, J., Lee, Y. K., 2022, A Study on the Classification of Arctic Tundra Vegetation Using UAV Hyperspectral imagery, Korean Society of Remote Sensing Fall Meeting, Pusan, South Korea. Poster
-
-11. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Analysis and Classification of Arctic Vegetation using Terrestrial Hyperspectral Imagery, The 27th International Symposium on Polar Science, South Korea. <a href="/files/2022ISPS_Poster.pdf" target="_blank">[Poster PDF]</a>
-
-12. Yang, J., Lee, Y. K., Chi, J. (2022). Spectral Characteristics of the Arctic Vegetation in Adventdalen, Svalbard, Arctic Science Summer Week 2022, Tromso, Norway. <a href="/files/2022ASSW_Poster.pdf" target="_blank">[Poster PDF]</a>
+10. **Yang, J.**, Lee, Y. K., Chi, J. (2022). Spectral Characteristics of the Arctic Vegetation in Adventdalen, Svalbard, *Arctic Science Summer Week 2022*, Tromso, Norway. <a href="/files/2022ASSW_Poster.pdf" target="_blank">[Poster PDF]</a>
 
 
 <img src="/files/yonsei_ui_edit.jpg" alt="Yonsei" width="300px">
@@ -59,11 +55,11 @@ September 2018 - August 2019
 
 Role: I served as an undergraduate researcher at the Bioinformatics Lab (<a href="https://netbiolab.org/" target="_blank">https://netbiolab.org/</a>) and the Chemical Genomics Lab (<a href="http://kwoncglab.com/" target="_blank">http://kwoncglab.com/</a>). My specialties included developing novel approaches to analyze the correlation between the gut microbiome and disease, and evaluating new natural compounds for cancer treatment under the supervision of Prof. Insuk Lee and Prof. Ho Jeong Kwon, respectively.
 
-1. Yang, J., Kim, C. Y. Lee, I. (2019). De novo assembly of the Korean-specific gut microbiome genome. Network Biology Laboratory Presentation
+1. **Yang, J.**, Kim, C. Y. Lee, I. (2019). De novo assembly of the Korean-specific gut microbiome genome. Network Biology Laboratory Presentation
 
-2. Yang, J., Kim, C. Y. Lee, I. (2019). Gut microbiome analysis in inflammatory bowel disease. Network Biology Laboratory Presentation
+2. **Yang, J.**, Kim, C. Y. Lee, I. (2019). Gut microbiome analysis in inflammatory bowel disease. Network Biology Laboratory Presentation
 
-3. Yang, J., Hwang, H. Y., Kwon, H. J. (2018). Evaluation of anti-cancer activity of natural compounds and biological relationship between Autophagy and Ciliogenesis, Yonsei Biotechnology and Bioengineering Department Undergraduate Research Conference. Seoul, South Korea. <a href="/files/2018_Yang_cancer_poster.pdf" target="_blank">[Poster PDF]</a>
+3. **Yang, J.**, Hwang, H. Y., Kwon, H. J. (2018). Evaluation of anti-cancer activity of natural compounds and biological relationship between Autophagy and Ciliogenesis, Yonsei Biotechnology and Bioengineering Department Undergraduate Research Conference. Seoul, South Korea. <a href="/files/2018_Yang_cancer_poster.pdf" target="_blank">[Poster PDF]</a>
 
 
 ### Contact
