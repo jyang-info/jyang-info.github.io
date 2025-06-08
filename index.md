@@ -63,7 +63,7 @@ Role: I served as an undergraduate researcher at the Bioinformatics Lab (<a href
 
 2. Yang, J., Kim, C. Y. Lee, I. (2019). Gut microbiome analysis in inflammatory bowel disease. Network Biology Laboratory Presentation
 
-3. Yang, J., Hwang, H. Y., Kwon, H. J. (2018). Evaluation of anti-cancer activity of natural compounds and biological relationship between Autophagy and Ciliogenesis, Yonsei Biotechnology and Bioengineering Department Undergraduate Research Conference. Seoul, South Korea.
+3. Yang, J., Hwang, H. Y., Kwon, H. J. (2018). Evaluation of anti-cancer activity of natural compounds and biological relationship between Autophagy and Ciliogenesis, Yonsei Biotechnology and Bioengineering Department Undergraduate Research Conference. Seoul, South Korea. <a href="/files/2018_Yang_cancer_poster.pdf" target="_blank">[Poster PDF]</a>
 
 
 ### Contact
