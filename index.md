@@ -10,8 +10,7 @@ I am deeply interested in the potential for extraterrestrial life in our solar s
 I earned my Master's degree in Polar Science (with a focus on Remote Sensing and Polar Biology) from the University of Science and Technology (UST), Korea, and hold a B.E. in Bioengineering and a B.S. in Molecular Biotechnology from Yonsei University and Jeju National University, respectively. Although my academic background spans diverse fields, I am still highly motivated to explore new methodologies, learn new disciplines, and contribute to research areas beyond my previous experience. I view unfamiliar techniques not as obstacles, but as opportunities for growth and collaboration.
 
 ### Experience
-Below is an overview of my research experience and a full list of my academic materials, including a journal publication and conference presentations. Please note that some PDF files have been excluded, but they are available upon request. 
-
+Below is an overview of my research experience and a full list of my academic materials, including a journal publication and conference presentations. Please note that some PDF files have been excluded, but they are available upon request.  
 
 <img src="/files/kopri_ci_eng_height.gif" alt="KOPRI" width="300px">
 
