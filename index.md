@@ -13,7 +13,7 @@ I earned my Master's degree in Polar Science (with a focus on Remote Sensing and
 Below is an overview of my research experience and a full list of my academic materials, including a journal publication and conference presentations. Please note that some PDF files have been excluded, but they are available upon request. 
 
 
-<img src="/files/kopri_ci_eng_height.gif" alt="KOPRI" width="400px">
+<img src="/files/kopri_ci_eng_height.gif" alt="KOPRI" width="300px">
 
 **Research Technician & Graduate Research Assistant**  
 Korea Polar Research Institute  
