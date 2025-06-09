@@ -5,7 +5,7 @@ title: Junyoung Yang  # _config.yml과 동일하게 설정
 
 ### Introduction
 
-I am deeply interested in investigating the potential for extraterrestrial life in our solar system (e.g., Mars, Venus, Europa) and how we can detect it. My research interests include interdisciplinary approaches that integrate remote sensing (via rovers, drones, and satellites), spectroscopy, AI algorithms, data science, and geochemical and biochemical analysis. 
+I am deeply interested in investigating the possibility of extraterrestrial life in our solar system (e.g., Mars, Venus, Europa) and how we can detect it. My research interests include interdisciplinary approaches that integrate remote sensing (via rovers, drones, and satellites), spectroscopy, AI algorithms, data science, and geochemical and biochemical analysis. 
 
 I completed my Master's degree in Polar Science (with a focus on Remote Sensing and Polar Biology) from the University of Science and Technology (UST), Korea, and hold a B.E. in Bioengineering and a B.S. in Molecular Biotechnology from Yonsei University and Jeju National University, respectively. I am still highly motivated to explore new methodologies, learn new disciplines, and contribute to research areas beyond my previous experience. I view unfamiliar techniques not as obstacles, but as opportunities for growth and collaboration.
 
