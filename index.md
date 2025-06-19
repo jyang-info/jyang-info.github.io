@@ -29,9 +29,9 @@ Conference Presentation
 
 2. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Advances in Spectral Unmixing-Based Hyperspectral Analysis for Arctic Plant Species Monitoring: Developing a Spectral Library. *AGU Annual Meeting 2023*. San Francisco, USA. <a href="/files/AGU_2023_Poster.pdf" target="_blank">[Poster PDF]</a>
 
-3. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Machine learning-based classification for mapping Arctic plant species using terrestrial hyperspectral imagery. *The Annual Meeting of the Korean Association of Biological Sciences*. Chuncheon, South Korea. <a href="/files/2023KAOBS_Poster_20230810.pdf" target="_blank">[Poster PDF]</a>
+3. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Mapping Capability of Hyperspectral Information on Dominant Arctic Vegetation Species using Terrestrial Hyperspectral Imagery. *IGARSS- IEEE International Geoscience and Remote Sensing Symposium*. Pasadena, CA. <a href="/files/2023IGARSS_Poster_(23.07.21).pdf" target="_blank">[Poster PDF]</a> 
 
-4. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Mapping Capability of Hyperspectral Information on Dominant Arctic Vegetation Species using Terrestrial Hyperspectral Imagery. *IGARSS- IEEE International Geoscience and Remote Sensing Symposium*. Pasadena, CA. <a href="/files/2023IGARSS_Poster_(23.07.21).pdf" target="_blank">[Poster PDF]</a> Conference paper: <a href="https://doi.org/10.1109/IGARSS52108.2023.10282453" target="_blank">[https://doi.org/10.1109/IGARSS52108.2023.10282453]</a>
+4. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Machine learning-based classification for mapping Arctic plant species using terrestrial hyperspectral imagery. *The Annual Meeting of the Korean Association of Biological Sciences*. Chuncheon, South Korea. <a href="/files/2023KAOBS_Poster_20230810.pdf" target="_blank">[Poster PDF]</a>
 
 5. **Yang, J.**, Lee, Y. K., Chi, J. (2023). Mapping Arctic Vegetation Abundance using Spectral Unmixing Analysis with WorldView-3 and UAV Images. *Korean Society of Remote Sensing Fall Meeting*. Gyeongju, South Korea. Oral
  
