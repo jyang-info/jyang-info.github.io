@@ -15,7 +15,7 @@ Below is an overview of my research experience and a full list of my academic ma
   
 <img src="/files/kopri_ci_eng_height_edit.gif" alt="KOPRI" width="300px">
 
-**Research Technician & Graduate Research Assistant**  
+**Graduate Student & Postgraduate Researcher**  
 Korea Polar Research Institute  
 May 2020 - June 2024
 
