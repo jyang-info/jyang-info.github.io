@@ -3,7 +3,7 @@ layout: default #YAML 헤더(---) 추가 해줘야 → Jekyll이 메타데이터
 title: Junyoung Yang  # _config.yml과 동일하게 설정
 ---
 
-Thank you for visiting. This site is now archived as I'm building a new and improved website. Please check back again soon  
+Thank you for visiting. This site is now archived as I'm building a new and improved website. Please check back again soon.   
 I appreciate your patience and understanding. For any inquiries, please contact me at jyyang@yonsei.ac.kr
 
 <!--
